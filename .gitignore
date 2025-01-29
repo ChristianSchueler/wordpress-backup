@@ -1,0 +1,9 @@
+# Ignore the actual configuration file with credentials
+config.sh
+
+# Ignore backup directory
+backup/
+
+# Ignore common system files
+.DS_Store
+Thumbs.db
